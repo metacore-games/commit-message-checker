@@ -1,5 +1,8 @@
 # GS Commit Message Checker
 
+⚠️NOTE: This actions has been manually bumped to use Node 24, since the upstream action has been abandoned!
+
+
 ![Version](https://img.shields.io/github/v/release/gsactions/commit-message-checker?style=flat-square)
 ![Test](https://github.com/gsactions/commit-message-checker/workflows/build-test/badge.svg)
 
